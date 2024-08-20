@@ -1,0 +1,6 @@
+git clone (link)
+cd test // vào thư mục có tên test
+git status // kiểm tra thư mục trong file
+git add (tên src)
+git commit -m"comment"
+git push origin main
