@@ -13,6 +13,7 @@ public class InRaThongTinCaNhan{
        System.out.println(height);
        System.out.print("age: ");
        System.out.println(age);
+       System.out.prinln("hello test git);
 
     }
 
