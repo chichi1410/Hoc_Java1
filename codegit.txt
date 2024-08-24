@@ -4,3 +4,4 @@ git status // kiểm tra thư mục trong file
 git add (tên src)
 git commit -m"comment"
 git push origin main
+string là nextline
